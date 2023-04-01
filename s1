@@ -1,3 +1,5 @@
+^(.*)"municipal": "(.*"province": "CAR, Abra".*)$
+$1"municipal": "ABR, $2
 WITH BCARDP AS
 	(SELECT
 		*
