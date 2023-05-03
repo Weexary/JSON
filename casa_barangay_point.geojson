@@ -76,7 +76,7 @@
 {"type": "Feature", "properties": {"municipal":"MM, CALOOCAN CITY", "barangay": "Caloocan, Bagumbong / Pag-asa"}, "geometry": { "coordinates": [121.0191751, 14.7526316], "type": "Point"}},
 {"type": "Feature", "properties": {"municipal":"MM, CALOOCAN CITY", "barangay": "Caloocan, Novaliches North (Camarin North)"}, "geometry": { "coordinates": [121.0387401, 14.7514408], "type": "Point"}},
 {"type": "Feature", "properties": {"municipal":"MM, CALOOCAN CITY", "barangay": "Caloocan, Lilles Ville Subdivision"}, "geometry": { "coordinates": [121.0313925, 14.762834], "type": "Point"}},
-{"type": "Feature", "properties": {"municipal":"MM, CALOOCAN CITY", "barangay": "Caloocan, Capitol Parkland Subdivision"}, "geometry": { "coordinates": [121.0963139, 14.6454514], "type": "Point"}},
+{"type": "Feature", "properties": {"municipal":"MM, CALOOCAN CITY", "barangay": "Caloocan, Capitol Parkland Subdivision"}, "geometry": { "coordinates": [121.0580939, 14.7489158], "type": "Point"}},
 {"type": "Feature", "properties": {"municipal":"MM, CALOOCAN CITY", "barangay": "Caloocan, Amparo Subdivision"}, "geometry": { "coordinates": [121.0716888, 14.7515748], "type": "Point"}},
 {"type": "Feature", "properties": {"municipal":"MM, CALOOCAN CITY", "barangay": "Caloocan, Bankers Village"}, "geometry": { "coordinates": [121.0241925, 14.7654871], "type": "Point"}},
 {"type": "Feature", "properties": {"municipal":"MM, CALOOCAN CITY", "barangay": "Caloocan, Bagong Silang"}, "geometry": { "coordinates": [121.0430543, 14.7771421], "type": "Point"}},
